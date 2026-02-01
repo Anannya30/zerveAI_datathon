@@ -1,7 +1,8 @@
-# ZERVE AI Datathon — Health Insurance Claim Predictio
+# ZERVE AI Datathon — Health Insurance Claim Prediction
 
 ## Overview
 Presented at IIT Bombay as Finalists.
+-
 This repository contains our machine learning solution developed for the **ZERVE AI Datathon**, where the goal was to predict the **probability of a customer filing a significant health insurance claim** using an anonymized dataset with 50 engineered features.
 
 The solution focuses on building a **robust ensemble pipeline** optimized for the **Normalized Gini Coefficient**, with special attention to **class imbalance**, **generalization**, and **ranking quality**.
